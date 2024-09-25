@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame.Tests/LotteryGame.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame.Tests/LotteryGame.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame.Tests/LotteryGame.Tests.csproj",
+        "projectName": "LotteryGame.Tests",
+        "projectPath": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame.Tests/LotteryGame.Tests.csproj",
+        "packagesPath": "/Users/iyanuakenroye/.nuget/packages/",
+        "outputPath": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iyanuakenroye/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/LotteryGame.csproj": {
+                "projectPath": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/LotteryGame.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/LotteryGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/LotteryGame.csproj",
+        "projectName": "LotteryGame",
+        "projectPath": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/LotteryGame.csproj",
+        "packagesPath": "/Users/iyanuakenroye/.nuget/packages/",
+        "outputPath": "/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iyanuakenroye/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotteryGame", "LotteryGame.csproj", "{4A7FAD97-B119-473A-A4F8-C6A68660D323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteryGame.Tests", "..\LotteryGame.Tests\LotteryGame.Tests.csproj", "{DF38EA25-4642-494F-B947-6F20F8CC6D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7FAD97-B119-473A-A4F8-C6A68660D323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7FAD97-B119-473A-A4F8-C6A68660D323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7FAD97-B119-473A-A4F8-C6A68660D323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7FAD97-B119-473A-A4F8-C6A68660D323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF38EA25-4642-494F-B947-6F20F8CC6D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF38EA25-4642-494F-B947-6F20F8CC6D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF38EA25-4642-494F-B947-6F20F8CC6D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF38EA25-4642-494F-B947-6F20F8CC6D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC66146-BFAB-47FA-87FF-C0F05E814428}
+	EndGlobalSection
+EndGlobal
