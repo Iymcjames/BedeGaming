@@ -6,7 +6,7 @@ public interface ILotteryService
 {
     Task AddPlayerAsync(Player player);
     Task CreateOtherPlayersAsync(int minNumberOfPlayers, int maxNumberOfPlayers);
-    Task<decimal> TotalRevenueAsync();
+    Task<float> TotalRevenueAsync();
     Task<List<Player>> GetPlayersAsync();
     Task DistributePrizesAsync();
 }

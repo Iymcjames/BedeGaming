@@ -34,7 +34,7 @@ public class LotteryService : ILotteryService
         }
     }
 
-    public async Task<decimal> TotalRevenueAsync()
+    public async Task<float> TotalRevenueAsync()
     {
         int totalTickets = _players.Sum(p => p.Tickets.Count);
         return await Task.FromResult(totalTickets);

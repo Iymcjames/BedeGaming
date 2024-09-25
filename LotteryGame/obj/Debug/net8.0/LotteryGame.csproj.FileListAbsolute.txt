@@ -16,3 +16,4 @@
 /Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/obj/Debug/net8.0/LotteryGame.csproj.AssemblyReference.cache
 /Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/obj/Debug/net8.0/LotteryG.344A5718.Up2Date
+/Users/iyanuakenroye/Developer/Training/C#/BedeGaming/LotteryGame/obj/Debug/net8.0/LotteryGame.sourcelink.json
